@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .container {
+    /* align at center; */
+    padding-top:10%;
+    width: 30%;
+    /* height:auto; */
+    margin: 0 auto;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+  }
+  
